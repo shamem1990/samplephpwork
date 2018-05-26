@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>haaai kalander</h1>
+<h1>haaai mubasir</h1>
 
 <?php
-echo "Version: 2.0";
+echo "Version: 2.2";
 ?>
 
 </body>
